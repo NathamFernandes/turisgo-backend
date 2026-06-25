@@ -10,8 +10,9 @@ app.use(cors({
     allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
-app.use(express.json());
-app.use(express.static('public'));
+app.use(express.static('public')); 
+app.use('/imagens', express.static('imagens'));
+app.use('/imagens', express.static('public/imagens'));
 
 app.get('/api/locais', listarLocais);
 app.post('/api/locais', criarLocal);
