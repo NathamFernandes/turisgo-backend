@@ -10,6 +10,9 @@ app.use(cors({
     allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
+app.use(express.json({ type: '*/*' }));
+app.use(express.urlencoded({ extended: true }));
+
 app.use(express.static('public')); 
 app.use('/imagens', express.static('imagens'));
 app.use('/imagens', express.static('public/imagens'));
@@ -18,7 +21,6 @@ app.get('/api/locais', listarLocais);
 app.post('/api/locais', criarLocal);
 
 app.get('/api/roteiros', listarRoteiros);
-app.post('/api/roteiros', criarRoteiro);
 
 if (process.env.NODE_ENV !== 'production') {
     const PORT = 3000;
