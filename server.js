@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from 'cors';
-import { listarLocais, criarLocal, listarRoteiros, criarRoteiro } from './funcoes.js';
+import { listarLocais, criarLocal, listarRoteiros } from './funcoes.js';
 
 const app = express();
 
