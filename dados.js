@@ -3,7 +3,7 @@ export let locais = [
         id: 1,
         nome: "Arena das Dunas",
         descricao_breve: "Um dos estádios mais modernos do Brasil, palco da Copa do Mundo de 2014.",
-        descricao_longa: "Projetada para refletir o movimento das dunas do RN, a Arena das Dunas é um complexo multiuso que recebe grandes partidas, shows e festivais.",
+        descricao_longa: "Projetada pelo premiado arquiteto Christopher Lee, a Arena das Dunas foi inaugurada para a Copa do Mundo de 2014 e é considerada um dos estádios mais belos da América do Sul. Sua arquitetura arrojada foi desenhada para imitar o movimento das dunas de areia, característica marcante do Rio Grande do Norte. Além de receber grandes clássicos do futebol, o complexo é uma verdadeira arena multiuso, contando com uma imensa praça externa que sedia os maiores festivais de música, eventos culturais e feiras da cidade. Oferece também tours guiados onde os visitantes podem conhecer os vestiários, o gramado e a zona mista.",
         imagem_destaque: "/imagens/arena.jpg",
         endereco: "Av. Prudente de Morais, 5121 - Lagoa Nova, Natal - RN"
     },
@@ -11,7 +11,7 @@ export let locais = [
         id: 2,
         nome: "Catedral Antiga de Natal",
         descricao_breve: "A primeira igreja matriz da cidade, carregada de história e fé desde o século XVII.",
-        descricao_longa: "Inaugurada em 1619 no bairro da Cidade Alta, ela marca o ponto inicial do desenvolvimento urbano de Natal e guarda séculos de memórias.",
+        descricao_longa: "Localizada no coração do centro histórico, na Praça André de Albuquerque, a Igreja Matriz de Nossa Senhora da Apresentação (Catedral Antiga) é um marco zero do desenvolvimento urbano de Natal. Inaugurada em 1619, ela sobreviveu a séculos de mudanças, incluindo o período de dominação holandesa. Sua arquitetura colonial portuguesa, com traços simples mas imponentes, guarda relíquias da fé potiguar, incluindo a imagem da padroeira da cidade. É um espaço de profunda paz, ideal para quem busca turismo religioso e aprecia a história fundacional da capital.",
         imagem_destaque: "/imagens/catedral.jpg",
         endereco: "R. Amaro Barreto, Cidade Alta, Natal - RN"
     },
@@ -19,7 +19,7 @@ export let locais = [
         id: 3,
         nome: "Forte dos Reis Magos",
         descricao_breve: "A fortaleza em formato de estrela que deu origem à fundação da cidade de Natal.",
-        descricao_longa: "Construído em 1598 sobre os recifes na foz do Rio Potengi, o Forte serviu para defender a região e hoje funciona como um museu histórico.",
+        descricao_longa: "Construído estrategicamente em 1598 sobre os recifes na foz do Rio Potengi, o Forte dos Reis Magos é o monumento mais antigo e importante do Rio Grande do Norte. Sua inconfundível planta em formato de estrela serviu para proteger o território contra invasões francesas e holandesas. Caminhar por suas muralhas de pedra é voltar no tempo; o interior guarda antigos canhões, alojamentos de soldados, a capela e o histórico Marco de Posse em mármore, trazido de Portugal. Além da riqueza histórica, o forte oferece uma vista panorâmica espetacular do encontro do rio com o oceano atlântico e da Ponte Newton Navarro.",
         imagem_destaque: "/imagens/forte.jpg",
         endereco: "Praia do Forte, Natal - RN"
     },
@@ -27,7 +27,7 @@ export let locais = [
         id: 4,
         nome: "Morro do Careca",
         descricao_breve: "O cartão-postal mais famoso de Natal, localizado na Praia de Ponta Negra.",
-        descricao_longa: "Uma imensa duna de 120 metros de altura cercada por Mata Atlântica. Hoje é uma área de preservação totalmente protegida.",
+        descricao_longa: "Majestoso e imponente, o Morro do Careca é uma duna de aproximadamente 120 metros de altura, ladeada por uma densa vegetação de Mata Atlântica que forma a 'careca' em seu centro. Localizado no extremo sul da Praia de Ponta Negra, ele é o símbolo máximo do turismo potiguar. Embora a subida na duna seja rigorosamente proibida desde o final dos anos 90 para preservar a estrutura contra a erosão, o cenário ao redor compensa. A praia aos seus pés é vibrante, repleta de restaurantes excelentes, vida noturna agitada e barracas que oferecem o melhor da culinária litorânea com uma vista inesquecível.",
         imagem_destaque: "/imagens/morro.jpg",
         endereco: "Praia de Ponta Negra, Natal - RN"
     },
@@ -35,7 +35,7 @@ export let locais = [
         id: 5,
         nome: "Maior Cajueiro do Mundo",
         descricao_breve: "A gigantesca árvore que entrou para o Guinness Book e cobre uma quadra inteira.",
-        descricao_longa: "Localizado na praia de Pirangi do Norte, este cajueiro sofre de uma anomalia genética que faz seus galhos crescerem para os lados e criarem novas raízes ao tocar o solo. É uma força da natureza impressionante com passarelas internas para visitação.",
+        descricao_longa: "Localizado na praia de Pirangi do Norte, este prodígio da natureza entrou para o Guinness Book em 1994. Devido a uma rara anomalia genética, os galhos da árvore, ao invés de crescerem para cima, crescem para os lados; e ao tocarem o chão, criam novas raízes e continuam a se expandir. O resultado é uma única árvore que cobre uma área de cerca de 8.500 metros quadrados, o equivalente a 70 cajueiros normais. O parque oferece passarelas de madeira por baixo da imensa copa verde, um mirante com vista panorâmica e, entre os meses de novembro e janeiro, os visitantes podem saborear os cajus colhidos na hora.",
         imagem_destaque: "/imagens/cajueiro.jpg",
         endereco: "Av. Dep. Márcio Marinho, Pirangi do Norte - Parnamirim - RN"
     },
@@ -43,7 +43,7 @@ export let locais = [
         id: 6,
         nome: "Dunas de Genipabu",
         descricao_breve: "O famoso cenário dos passeios de buggy 'com ou sem emoção'.",
-        descricao_longa: "Localizado no litoral norte, Genipabu é mundialmente conhecido por suas dunas móveis imensas, lagoas de águas cristalinas e os tradicionais passeios de buggy, além do exótico visual dos dromedários.",
+        descricao_longa: "Mundialmente famoso pelas paisagens que já foram cenário de diversas novelas e filmes, o Parque Turístico Ecológico Dunas de Genipabu é a quintessência da aventura no RN. Localizado no litoral norte, o local é um verdadeiro parque de diversões natural composto por imensas dunas de areias brancas e móveis, falésias e lagoas de águas doces e cristalinas. O passeio de buggy pelas dunas é obrigatório, com a clássica pergunta do motorista: 'com ou sem emoção?'. Além disso, os visitantes podem se divertir com descidas de 'esquibunda' até a lagoa e passeios em dromedários, que dão um toque de deserto ao litoral nordestino.",
         imagem_destaque: "/imagens/genipabu.jpg",
         endereco: "Praia de Genipabu, Extremoz - RN"
     },
@@ -51,7 +51,7 @@ export let locais = [
         id: 7,
         nome: "Aquário de Natal",
         descricao_breve: "O maior aquário do Nordeste, com pinguins, tubarões e jacarés.",
-        descricao_longa: "Um excelente passeio para a família focado em educação ambiental. O aquário abriga diversas espécies de peixes, tubarões, tartarugas, jacarés e até pinguins que foram resgatados na costa brasileira.",
+        descricao_longa: "Localizado na Redinha Nova, o Aquário de Natal é o maior do gênero na região Nordeste e desempenha um papel fundamental como centro de reabilitação da fauna marinha silvestre. O circuito de visitação é uma aula de biologia viva, abrigando mais de 60 espécies, incluindo tubarões-lixa, cavalos-marinhos, moreias, pirarucus, jacarés e até adoráveis pinguins-de-magalhães que se perdem nas correntes oceânicas e são resgatados na costa. Um dos pontos altos para as crianças é o Tanque de Toque, onde é possível interagir com segurança com raias e estrelas-do-mar sob a supervisão de biólogos.",
         imagem_destaque: "/imagens/aquario.jpg",
         endereco: "Av. Litorânea, 1091 - Redinha, Extremoz - RN"
     },
@@ -59,7 +59,7 @@ export let locais = [
         id: 8,
         nome: "Museu de Ciências Morfológicas (MCM)",
         descricao_breve: "Espaço didático-científico da UFRN focado na evolução, anatomia e corpo humano.",
-        descricao_longa: "Localizado no Centro de Biociências da UFRN, o museu possui um acervo rico em peças anatômicas reais e modelos embriológicos, sendo referência em extensão universitária e biologia.",
+        descricao_longa: "Mantido pela Universidade Federal do Rio Grande do Norte (UFRN), o MCM é uma joia oculta para quem tem curiosidade sobre a biologia e a complexidade da vida. O museu apresenta um acervo impressionante e muito respeitoso de peças anatômicas reais, ossadas humanas e animais, além de modelos embriológicos que mostram todas as fases do desenvolvimento fetal. O ambiente é amplamente utilizado para fins de extensão universitária e visitas escolares, oferecendo guias capacitados que transformam a visita em uma fascinante e interativa aula de ciências.",
         imagem_destaque: "/imagens/mcm.jpg",
         endereco: "Campus Universitário da UFRN, Lagoa Nova - Natal - RN"
     },
@@ -67,7 +67,7 @@ export let locais = [
         id: 9,
         nome: "Museu Câmara Cascudo",
         descricao_breve: "O principal museu de antropologia, arqueologia e ciências naturais do RN.",
-        descricao_longa: "Mantido pela UFRN, homenageia o maior folclorista do país. Abriga exposições incríveis sobre paleontologia (com fósseis locais), cultura popular potiguar e arte sacra.",
+        descricao_longa: "Batizado em homenagem ao maior folclorista do Brasil, o natalense Luís da Câmara Cascudo, este museu é o mais importante centro de preservação da identidade cultural do estado. Seu acervo é riquíssimo e diversificado: os visitantes caminham por pavilhões dedicados à paleontologia (com impressionantes fósseis de dinossauros encontrados no interior do RN), antropologia, arte sacra e cultura popular. É o lugar perfeito para entender as raízes indígenas, a miscigenação regional, os rituais folclóricos e o modo de vida do povo nordestino através de exposições extremamente bem cuidadas.",
         imagem_destaque: "/imagens/camara_cascudo.jpg",
         endereco: "Av. Hermes da Fonseca, 1398 - Tirol, Natal - RN"
     },
@@ -75,7 +75,7 @@ export let locais = [
         id: 10,
         nome: "Parque das Dunas (Bosque dos Namorados)",
         descricao_breve: "A maior reserva de Mata Atlântica nativa sobre dunas do Brasil urbano.",
-        descricao_longa: "Uma imensa área verde no coração de Natal com trilhas ecológicas, parque infantil, centro de pesquisa e o anfiteatro onde rolam shows e eventos culturais no fim de semana.",
+        descricao_longa: "Reconhecido pela UNESCO como Reserva da Biosfera da Mata Atlântica, o Parque das Dunas é o pulmão verde da cidade de Natal, ocupando mais de mil hectares. O setor público, conhecido como Bosque dos Namorados, é um refúgio de tranquilidade que oferece estrutura completa com parques infantis, áreas para piquenique e o famoso projeto 'Som da Mata', que traz música instrumental ao ar livre aos domingos. Para os mais aventureiros, o parque dispõe de trilhas ecológicas guiadas (como a Peroba e a Ubaia Doce) que adentram a mata fechada, onde é muito comum avistar saguis, lagartos e uma rica diversidade de pássaros nativos.",
         imagem_destaque: "/imagens/parque_dunas.jpg",
         endereco: "Av. Alexandrino de Alencar, s/n - Tirol, Natal - RN"
     },
@@ -83,7 +83,7 @@ export let locais = [
         id: 11,
         nome: "Parque da Cidade Dom Nivaldo Monte",
         descricao_breve: "Reserva ambiental com projeto arquitetônico assinado por Oscar Niemeyer.",
-        descricao_longa: "Um dos principais pontos de corrida e ciclismo de Natal, conta com uma torre panorâmica imensa com vista para a cidade, trilhas pavimentadas e uma área de preservação de caatinga e dunas.",
+        descricao_longa: "Um oásis moderno projetado pelo gênio da arquitetura Oscar Niemeyer, o Parque da Cidade é a harmonia perfeita entre conservação ambiental e uso urbano. A grande estrela do local é o monumento da torre em formato de olho, que abriga um mirante panorâmico fantástico, de onde se pode assistir a um dos pores do sol mais bonitos da capital. O parque abraça uma vasta área de preservação do aquífero subterrâneo da cidade, possuindo quilômetros de trilhas pavimentadas, o que o torna o paraíso absoluto para corredores, ciclistas e pessoas em busca de bem-estar e contato com a natureza no fim de tarde.",
         imagem_destaque: "/imagens/parque_cidade.jpg",
         endereco: "Av. Pref. Omar O'Grady, s/n - Pitimbu, Natal - RN"
     },
@@ -91,7 +91,7 @@ export let locais = [
         id: 12,
         nome: "Catedral Metropolitana de Natal",
         descricao_breve: "A imponente e moderna sede da arquidiocese de Natal, inaugurada em 1988.",
-        descricao_longa: "Com uma arquitetura futurista em formato trapezoidal, a catedral é famosa por sua nave subterrânea, vitrais coloridos imensos e por ter sido consagrada pelo Papa João Paulo II.",
+        descricao_longa: "Diferente de qualquer igreja tradicional que você já viu, a Catedral Metropolitana de Natal chama a atenção pela sua arquitetura arrojada de estilo brutalista. Sua construção trapezoidal em concreto aparente, com linhas que sobem em direção ao céu, foi projetada de forma a não possuir pilares internos, criando um vão livre monumental que impressiona qualquer visitante. Consagrada pelo Papa João Paulo II em sua visita a Natal em 1991, a catedral possui belíssimos vitrais contemporâneos que banham o interior de luz colorida, além de uma capela subterrânea silenciosa e convidativa à reflexão.",
         imagem_destaque: "/imagens/catedral_nova.jpg",
         endereco: "Av. Marechal Deodoro da Fonseca, s/n - Cidade Alta, Natal - RN"
     }
